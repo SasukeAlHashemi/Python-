@@ -5,3 +5,4 @@ while n > 0:
     n = n - 1
 factorial = result
 print("Factorial of", number, "is", factorial)
+
